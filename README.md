@@ -1,0 +1,2 @@
+# AutoMaven
+maven配置
